@@ -1,0 +1,56 @@
+.page-wrapper {width: 90%;
+    margin: 0 auto;
+}
+.me {width: 40%;
+}
+.cont {
+    border: 3px solid rgb(245, 26, 26);
+    width: 25%; 
+    margin-bottom: 20px;
+}
+
+.info {
+    border: 3px solid #FF9900;
+    width: 45%;
+    margin-bottom: 20px;
+}
+.skl  {
+    border: 3px solid #FFFF33;
+    width: 15%;
+    margin-bottom: 20px;
+}
+.cd   {
+    border: 3px solid #00CC33;
+    width: 15%;
+    margin-bottom: 20px;
+}
+.exp  {
+    border: 3px solid #33FFFF;
+    width: 15%;
+    margin-bottom: 20px;
+}
+.educ  {
+    border: 3px solid #3300CC;
+    width: 29%;
+    margin-bottom: 20px;
+}
+.lang  {
+    border: 3px solid #CC00FF;
+    width: 29%;
+    margin-bottom: 20px;
+}
+.gh {
+    height: 100%;
+    
+}
+.school{
+    height: 100%;
+}
+.god {
+    margin: 0 5%;
+}
+.foot {
+    text-align: center;
+    height: 80px;
+    padding: 15px;
+}
